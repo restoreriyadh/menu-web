@@ -1,7 +1,7 @@
 const LOCAL_RESTAURANT_DATA = {
     
   "restaurant": {
-    "name": "Bayt Al Mandi",
+    "name": "Vahat Al Mandi",
     "shortName": "Bayt Al Mandi",
     "tagline": "Slow-smoked Yemeni tradition",
     "description": "Authentic Yemeni mandi and madhbi, cooked in a clay taboon oven and served the traditional way.",
